@@ -1,0 +1,10 @@
+#messages{
+    background-color: aliceblue;
+    width: 500px;
+    height: 700px;
+}
+
+li{
+    list-style: none;
+    text-decoration: none;
+}
